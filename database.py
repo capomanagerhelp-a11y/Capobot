@@ -1,5 +1,5 @@
+import os
 import aiosqlite
-
 DB_NAME = os.getenv("DB_NAME", "crm.db")
 
 
