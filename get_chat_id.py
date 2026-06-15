@@ -1,8 +1,7 @@
 import asyncio
 from aiogram import Bot, Dispatcher, types
-from aiogram.filters import CommandStart
 
-TOKEN = "ТВОЙ_ТОКЕН"
+TOKEN = "8890460646:AAExbmqq4BARORsot-Ks3wJ3lcx79d2Qwbg"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
